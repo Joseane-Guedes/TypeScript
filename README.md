@@ -10,4 +10,4 @@ Repositorio criado para estudos de typescript!
 - [The TypeScript Handbook - Documentação oficial](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [Criar aplicativos JavaScript usando o TypeScript - curso Microsoft](https://docs.microsoft.com/pt-br/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos)
 
-
+- [Exercism typescript](https://exercism.io/my/tracks/typescript)
